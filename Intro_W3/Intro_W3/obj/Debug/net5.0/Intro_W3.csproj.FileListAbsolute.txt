@@ -1,0 +1,16 @@
+C:\Users\theuvel\source\repos\Intro_W3\Intro_W3\bin\Debug\net5.0\Intro_W3.exe
+C:\Users\theuvel\source\repos\Intro_W3\Intro_W3\bin\Debug\net5.0\Intro_W3.deps.json
+C:\Users\theuvel\source\repos\Intro_W3\Intro_W3\bin\Debug\net5.0\Intro_W3.runtimeconfig.json
+C:\Users\theuvel\source\repos\Intro_W3\Intro_W3\bin\Debug\net5.0\Intro_W3.runtimeconfig.dev.json
+C:\Users\theuvel\source\repos\Intro_W3\Intro_W3\bin\Debug\net5.0\Intro_W3.dll
+C:\Users\theuvel\source\repos\Intro_W3\Intro_W3\bin\Debug\net5.0\ref\Intro_W3.dll
+C:\Users\theuvel\source\repos\Intro_W3\Intro_W3\bin\Debug\net5.0\Intro_W3.pdb
+C:\Users\theuvel\source\repos\Intro_W3\Intro_W3\obj\Debug\net5.0\Intro_W3.csproj.AssemblyReference.cache
+C:\Users\theuvel\source\repos\Intro_W3\Intro_W3\obj\Debug\net5.0\Intro_W3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theuvel\source\repos\Intro_W3\Intro_W3\obj\Debug\net5.0\Intro_W3.AssemblyInfoInputs.cache
+C:\Users\theuvel\source\repos\Intro_W3\Intro_W3\obj\Debug\net5.0\Intro_W3.AssemblyInfo.cs
+C:\Users\theuvel\source\repos\Intro_W3\Intro_W3\obj\Debug\net5.0\Intro_W3.csproj.CoreCompileInputs.cache
+C:\Users\theuvel\source\repos\Intro_W3\Intro_W3\obj\Debug\net5.0\Intro_W3.dll
+C:\Users\theuvel\source\repos\Intro_W3\Intro_W3\obj\Debug\net5.0\ref\Intro_W3.dll
+C:\Users\theuvel\source\repos\Intro_W3\Intro_W3\obj\Debug\net5.0\Intro_W3.pdb
+C:\Users\theuvel\source\repos\Intro_W3\Intro_W3\obj\Debug\net5.0\Intro_W3.genruntimeconfig.cache
